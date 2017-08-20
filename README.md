@@ -25,15 +25,15 @@
 
 |字段名称       |字段说明         |类型            |必填            |字段选项        |
 | -------------|:--------------:|:--------------:|:--------------:|:------:|
-|type|请求类型|string|Y|card / live / event / maps / pair_card / c_card / card_s|
+|type|请求类型|string|必填|card / live / event / maps / pair_card / c_card / card_s|
 
 * 当type为card时，请求卡片有关信息:
 
 	|字段名称       |字段说明         |类型            |必填            |字段选项        |
 	| -------------|:--------------:|:--------------:|:--------------:|:------:|
-	|id|编号|string|Y|0 / {unit_number}|
-	|page|id=0时，page必填|string|Y|all / {page}|
-	|lang|数据语言 默认为日本语|string|N|jp / en / cn / kr / tw|
+	|id|编号|string|必填|0 / {unit_number}|
+	|page|分页选项|string|id=0时必填|all / {page}|
+	|lang|数据语言 默认为日本语|string|可选|jp / en / cn / kr / tw|
 
 	id=0&page=all 返回所有卡片基础信息
 
