@@ -40,14 +40,14 @@
 	```
 	[
 		{
-			"unit_number":"1273",
-			unit_type_id":"101",
-			"eponym":"\u304a\u3044\u3067\u307e\u305b\u6d77\u306e\u5bb6\uff01",
-			"name":"\u9ad8\u6d77\u5343\u6b4c",
-			"normal_icon_asset":"assets\/image\/units\/u_normal_icon_41101003.png",
-			"rank_max_icon_asset":"assets\/image\/units\/u_rankup_icon_41101003.png",
-			"rarity":"4",
-			"attribute_id":"1"
+			"unit_number":"1273", //卡号
+			unit_type_id":"101",  //属性编号
+			"name":"\u9ad8\u6d77\u5343\u6b4c", //卡片人员
+			"eponym":"\u304a\u3044\u3067\u307e\u305b\u6d77\u306e\u5bb6\uff01", //卡名
+			"normal_icon_asset":"assets\/image\/units\/u_normal_icon_41101003.png", //普通头像路径
+			"rank_max_icon_asset":"assets\/image\/units\/u_rankup_icon_41101003.png", //觉醒头像路径
+			"rarity":"4", //稀有度
+			"attribute_id":"1" //颜色属性
 		},
 		{
 			"unit_number":"1272",
