@@ -17,7 +17,7 @@
 #### GET参数:
 |字段名称       |字段说明         |类型            |必填            |字段选项 |
 | -------------|:--------------:|:--------------:|:--------------:| ------:|
-|type|请求类型|string|Y|card `live `event `maps `pair_card `c_card `card_s|
+|type|请求类型|string|Y|card / live / event / maps / pair_card / c_card / card_s|
 
 
 
