@@ -36,7 +36,9 @@
 	|lang|数据语言 默认为日本语|string|可选|jp / en / cn / kr / tw|
 
 	id=0&page=all 返回所有卡片基础信息
+	id=0&page=1 一页返回10条信息
 
+	请求返回结果:
 	```
 	[
 		{
