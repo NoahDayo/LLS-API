@@ -38,6 +38,29 @@
 	id=0&page=all 返回所有卡片基础信息
 
 	```
+	[
+		{
+			"unit_number":"1273",
+			unit_type_id":"101",
+			"eponym":"\u304a\u3044\u3067\u307e\u305b\u6d77\u306e\u5bb6\uff01",
+			"name":"\u9ad8\u6d77\u5343\u6b4c",
+			"normal_icon_asset":"assets\/image\/units\/u_normal_icon_41101003.png",
+			"rank_max_icon_asset":"assets\/image\/units\/u_rankup_icon_41101003.png",
+			"rarity":"4",
+			"attribute_id":"1"
+		},
+		{
+			"unit_number":"1272",
+			"unit_type_id":"105",
+			"eponym":"\u30df\u30e9\u30af\u30eb\u30aa\u30fc\u30b7\u30e3\u30f3",
+			"name":"\u6e21\u8fba\u66dc",
+			"normal_icon_asset":"assets\/image\/units\/u_normal_icon_52105002.png",
+			"rank_max_icon_asset":"assets\/image\/units\/u_rankup_icon_52105002.png",
+			"rarity":"5",
+			"attribute_id":"2"
+		},
+		....
+	]
 
 	```
 
