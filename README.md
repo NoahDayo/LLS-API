@@ -3,9 +3,10 @@
 ### 1) 请求地址
 
 >https://app.lovelivesupport.com/lls-api/getAll.php
+
 >https://app.llsupport.cn/lls-api/getAll.php
 
-### 2) 调用方式：HTTP get
+### 2) 调用方式：HTTP GET
 
 ### 3) 接口描述：
 
@@ -14,11 +15,10 @@
 ### 4) 请求参数:
 
 #### GET参数:
-|字段名称       |字段说明         |类型            |必填            |备注     |
+|字段名称       |字段说明         |类型            |必填            |字段选项 |
 | -------------|:--------------:|:--------------:|:--------------:| ------:|
-|type||string|Y|-|
-|page||string|Y|-|
-|id||string|Y|-|
+|type|请求类型|string|Y|-|
+
 
 
 
