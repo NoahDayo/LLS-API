@@ -33,9 +33,9 @@
 	| -------------|:--------------:|:--------------:|:--------------:|:------:|
 	|id|编号|string|Y|0 / {unit_number}|
 	|page|id=0时，page必填|string|Y|all / {page}|
+	|lang|数据语言 默认为日本语|string|N|jp / en / cn / kr / tw|
 
-
-	请求返回结果:
+	id=0&page=all 返回所有卡片基础信息
 
 	```
 
