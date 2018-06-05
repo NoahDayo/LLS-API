@@ -2,9 +2,7 @@
 
 ### 请求地址:
 
->https://app.lovelivesupport.com/lls-api/getAll.php
-
->https://app.llsupport.cn/lls-api/getAll.php
+>https://www.lovelivesupport.com/api.php
 
 ### 调用方式：
 	
@@ -16,8 +14,6 @@
 	本API服务站点为公益性质运营方式，如果使用请参照一下文档并注明数据来源LLSupport
 
 	注: 本站采用全域https方式加密 对于加密协议等详细信息访问SSLLabs查询
-	.cn 为中国大陆地区内访问专线，针对中国大陆有较强的访问速度
-	.com 为国际专用线路，为非中国大陆地区内有极好的访问速度
 
 
 
