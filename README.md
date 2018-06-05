@@ -11,15 +11,21 @@
 ### Description：
 
 This API service site is a public welfare operation. 
+
 If you use it, please refer to the document and indicate the data source LLSupport.
+
 *This site uses global https encryption Encryption protocols and other detailed information access SSLLabs query
 
 2015 ~ 2018 Copyright by LLSupport. All rights reserved.
 
 The developers who need to use this LLS-API indicate that the use is up to warranty LLSupport/LLSIFCE agreement in case not profit.
+
 Application was approved, your information will be recorded.
-If you do not apply to use this LLS-API will be automatically blocked by the robot including request ip and devices Agreement to check Application was approve or who was blocked
+
+If you do not apply to use this LLS-API will be automatically blocked by the robot including request ip and devices Agreement to check Application was approve or who was blocked.
+
 Application E-Mail：admin@lovelivesupport.com 
+
 We only accept English/Chinese in Application. The Application Form format Download. 
 
 ### Documents:
